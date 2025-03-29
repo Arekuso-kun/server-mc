@@ -1,3 +1,9 @@
+jdk-21.0.5+11/
+server/
+*.exe
+*.zip
+*.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
